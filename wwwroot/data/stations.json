@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+  	  "geometry": {
+      "type": "Point",
+     		"coordinates": [24.7153, 56.8051]
+  	   },
+  	  "properties": {
+      		"name": "Lielpeči"
+  	  }
+    },
+    {
+      "type": "Feature",
+  	  "geometry": {
+      "type": "Point",
+     		"coordinates": [24.6417, 56.8126]
+  	   },
+  	  "properties": {
+      		"name": "Ogre"
+  	  }
+    }
+  ]
+}

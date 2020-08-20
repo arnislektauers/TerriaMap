@@ -21,3 +21,12 @@ wwwroot/privateconfig.json
 deploy/packages/
 deploy/work/
 packages/
+/wwwroot/data/Ogre_Glazuskunis-Ogresgals_3dtiles
+/wwwroot/data/Ogre_Libieskalns-OgresHES_3dtiles
+/wwwroot/data/Ogre_Ogresgals_3dtiles
+/wwwroot/data/Ogre_Ogresgals-Darzini_3dtiles
+/wwwroot/data/Ogres_griva_3dtiles
+/wwwroot/data/Ogres_lejtece_3dtiles
+/wwwroot/init/*.bak
+/wwwroot/*.bak
+*.bak
