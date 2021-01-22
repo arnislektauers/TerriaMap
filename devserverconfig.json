@@ -2,6 +2,7 @@
     "port": 3001,
 
     "allowProxyFor" : [
+        ""
         "nicta.com.au",
         "gov.au",
         "csiro.au",
@@ -21,7 +22,10 @@
         "gov",
         "gov.uk",
         "gov.nz",
-        "sample.aero3dpro.com.au"
+        "sample.aero3dpro.com.au",
+        "noah.rtu.lv",
+        "localhost",
+        "127.0.0.1"
     ]
 }
 
