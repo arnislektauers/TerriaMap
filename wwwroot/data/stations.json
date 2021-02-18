@@ -3,23 +3,141 @@
   "features": [
     {
       "type": "Feature",
-  	  "geometry": {
-      "type": "Point",
-     		"coordinates": [24.7153, 56.8051]
-  	   },
-  	  "properties": {
-      		"name": "Lielpeči"
-  	  }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.7152999, 56.8051]
+      },
+      "properties": {
+        "title": "LVĢMC - Lielpeči",
+        "name": "LVĢMC - Lielpeči",
+        "description": "Lielpeču hidrometeoroloģiskā stacija http://85.254.219.78:3000",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+        "marker-color": "#0000ff",
+        "stroke": "#555555",
+        "fill-opacity": 0.2,
+        "fill": "#ff5555"
+      }
     },
     {
       "type": "Feature",
-  	  "geometry": {
-      "type": "Point",
-     		"coordinates": [24.6417, 56.8126]
-  	   },
-  	  "properties": {
-      		"name": "Ogre"
-  	  }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.641654, 56.8126786]
+      },
+      "properties": {
+        "title": "LVĢMC - Ogre",
+        "name": "LVĢMC - Ogre",
+        "description": "Ogres hidrometeoroloģiskā stacija http://85.254.219.78:3000",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+        "marker-color": "#0000ff",
+        "stroke": "#555555",
+        "fill-opacity": 0.2,
+        "fill": "#ff5555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.6121649, 56.815002]
+      },
+      "properties": {
+        "title": "Lata",
+        "name": "Lata",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#0000ff",
+        "stroke": "#555555",
+        "fill-opacity": 0.2,
+        "fill": "#ff5555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.6625969, 56.8218779]
+      },
+      "properties": {
+        "title": "Aka",
+        "name": "Aka",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#0000ff",
+        "stroke": "#555555",
+        "fill-opacity": 0.2,
+        "fill": "#ff5555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.6754409, 56.8173282]
+      },
+      "properties": {
+        "title": "Lībieškalns",
+        "name": "Lībieškalns",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#0000ff",
+        "stroke": "#555555",
+        "fill-opacity": 0.2,
+        "fill": "#ff5555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.7539661, 56.8010262]
+      },
+      "properties": {
+        "title": "Aka aiz Lielpečiem",
+        "name": "Aka aiz Liepečiem",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#0000ff",
+        "stroke": "#555555",
+        "fill-opacity": 0.2,
+        "fill": "#ff5555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.5989863, 56.8111955]
+      },
+      "properties": {
+        "title": "Grīva",
+        "name": "Grīva",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#0000ff",
+        "stroke": "#555555",
+        "fill-opacity": 0.2,
+        "fill": "#ff5555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.6543084, 56.8164305]
+      },
+      "properties": {
+        "title": "HES 1",
+        "name": "HES 1",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#0000ff",
+        "stroke": "#555555",
+        "fill-opacity": 0.2,
+        "fill": "#ff5555"
+      }
     }
   ]
 }
