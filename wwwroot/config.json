@@ -74,7 +74,7 @@
 
         "hideTerriaLogo": true,
 
-        "useCesiumIonTerrain": true,
+        "useCesiumIonTerrain": false,
 
         "cesiumIonAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI2MTU4YzZjZS1hNWIyLTRlZDItOWY3NC03MDgzNmJiZjgxMWIiLCJpZCI6MTU4ODYsInNjb3BlcyI6WyJhc3IiLCJnYyJdLCJpYXQiOjE1OTExMjk2ODl9.Y7lxDiKoiD7-5LF0oMK33krOhL1yUmIMDORGrHlgOQs"
     }

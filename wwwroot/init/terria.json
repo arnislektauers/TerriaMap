@@ -12,29 +12,29 @@
 			"name": "Ogre 3D Data",
 			"preserveOrder": true,
 			"isOpen": true,
+			"isPromoted": true,
 			"items": [
 				{
 					"name": "Hidrometeoroloģiskās stacijas",
 					"type": "geojson",
-					"url": "http://noah.rtu.lv:3001/data/stations.json",
+					"url": "http://85.254.219.78:3001/data/stations.json",
 					"description": "Hidrometeoroloģiskās stacijas",
 					"isEnabled": true
 				},
 				{
-					"name": "Applūstošā teritorija",
+					"name": "Modelētā applūstošā teritorija pēc 12h",
 					"type": "kml",
-					"url": "http://noah.rtu.lv:3001/data/ogre.kmz",
-					"description": "Applūstošā teritorija",
+					"url": "http://85.254.219.78:3001/data/ogre-0004.kmz",
+					"description": "Modelētā applūstošā teritorija pēc 12h",
 					"isEnabled": true,
 					"isShown": false,
 					"isPromoted": true
 				},
 				{
-					"name": "Applūstošā teritorija 2",
+					"name": "Modelētā applūstošā teritorija pēc 24h",
 					"type": "kml",
-					"url": "http://noah.rtu.lv:3001/data/ogre2.kmz",
-					"description": "Applūstošā teritorija 2",
-					"legendUrl": "http://noah.rtu.lv:3001/data/legend.png",
+					"url": "http://85.254.219.78:3001/data/ogre-0008.kmz",
+					"description": "Modelētā applūstošā teritorija pēc 24h",
 					"isEnabled": true,
 					"isShown": false
 				}
@@ -50,7 +50,7 @@
 				{
 					"name": "Ogre Glāzšķūnis",
 					"type": "3d-tiles",
-					"url": "http://noah.rtu.lv:3001/data/Ogre_Glazuskunis-Ogresgals_3dtiles/Scene/Ogre_GlazuskunismOgresgals_3dtiles.json",
+					"url": "http://85.254.219.78:3001/data/Ogre_Glazuskunis-Ogresgals_3dtiles/Scene/Ogre_GlazuskunismOgresgals_3dtiles.json",
 					"description": "Ogre Glāzšķūnis 3D tiles",
 					"heightOffset": -42,
 					"isEnabled": true,
@@ -59,7 +59,7 @@
 				{
 					"name": "Ogre Lībieškalns - Ogres HES",
 					"type": "3d-tiles",
-					"url": "http://noah.rtu.lv:3001/data/Ogre_Libieskalns-OgresHES_3dtiles/Scene/Ogre_LibieskalnsmOgresHES_3dtiles.json",
+					"url": "http://85.254.219.78:3001/data/Ogre_Libieskalns-OgresHES_3dtiles/Scene/Ogre_LibieskalnsmOgresHES_3dtiles.json",
 					"description": "Ogre Lībieškalns - Ogres HES 3D tiles",
 					"heightOffset": -42,
 					"isEnabled": true,
@@ -68,7 +68,7 @@
 				{
 					"name": "Ogresgals",
 					"type": "3d-tiles",
-					"url": "http://noah.rtu.lv:3001/data/Ogre_Ogresgals_3dtiles/Scene/Ogre_Ogresgals_3dtiles.json",
+					"url": "http://85.254.219.78:3001/data/Ogre_Ogresgals_3dtiles/Scene/Ogre_Ogresgals_3dtiles.json",
 					"description": "Ogresgals 3D tiles",
 					"heightOffset": -42,
 					"isEnabled": true,
@@ -77,7 +77,7 @@
 				{
 					"name": "Ogresgals Dārziņi",
 					"type": "3d-tiles",
-					"url": "http://noah.rtu.lv:3001/data/Ogre_Ogresgals-Darzini_3dtiles/Scene/Ogre_Ogresgals_3dtiles.json",
+					"url": "http://85.254.219.78:3001/data/Ogre_Ogresgals-Darzini_3dtiles/Scene/Ogre_OgresgalsmDarzini_3dtiles.json",
 					"description": "Ogresgals Dārziņi 3D tiles",
 					"heightOffset": -42,
 					"isEnabled": true,
@@ -86,7 +86,7 @@
 				{
 					"name": "Ogres grīva",
 					"type": "3d-tiles",
-					"url": "http://noah.rtu.lv:3001/data/Ogres_griva_3dtiles/Scene/Ogres_griva_3dtiles.json",
+					"url": "http://85.254.219.78:3001/data/Ogres_griva_3dtiles/Scene/Ogres_griva_3dtiles.json",
 					"description": "Ogre estuary 3D tiles",
 					"heightOffset": -42,
 					"isEnabled": true,
@@ -95,7 +95,7 @@
 				{
 					"name": "Ogres lejtece",
 					"type": "3d-tiles",
-					"url": "http://noah.rtu.lv:3001/data/Ogres_lejtece_3dtiles/Scene/Ogres_lejtece_3dtiles.json",
+					"url": "http://85.254.219.78:3001/data/Ogres_lejtece_3dtiles/Scene/Ogres_lejtece_3dtiles.json",
 					"description": "Ogres lejtece 3D tiles",
 					"heightOffset": -42,
 					"isEnabled": true,

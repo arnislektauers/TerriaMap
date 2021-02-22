@@ -29,7 +29,7 @@ function RelatedMaps(props) {
       <div className={classNames(PanelStyles.section, Styles.section)}>
         <a
           target="_blank"
-          href="https://geodata.lvgmc.lv/portal/apps/webappviewer/index.html?id=284244e6dc5346e3bb989d35ba6ef5c8&extent=2112913.7274%2C7477364.7554%2C3288209.4743%2C8009977.9685%2C102100"
+          href="https://videscentrs.lvgmc.lv/iebuvets/pludu-riska-un-pludu-draudu-kartes"
         >
           <img
             className={Styles.image}
@@ -41,7 +41,7 @@ function RelatedMaps(props) {
         <a
           target="_blank"
           className={Styles.link}
-          href="https://geodata.lvgmc.lv/portal/apps/webappviewer/index.html?id=284244e6dc5346e3bb989d35ba6ef5c8&extent=2112913.7274%2C7477364.7554%2C3288209.4743%2C8009977.9685%2C102100"
+          href="https://videscentrs.lvgmc.lv/iebuvets/pludu-riska-un-pludu-draudu-kartes"
         >
           Latvijas plūdu riska un plūdu draudu kartes
         </a>

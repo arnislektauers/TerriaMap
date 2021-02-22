@@ -8,15 +8,15 @@
         "coordinates": [24.7152999, 56.8051]
       },
       "properties": {
-        "title": "LVĢMC - Lielpeči",
-        "name": "LVĢMC - Lielpeči",
+        "title": "Lielpeči (LVĢMC)",
+        "name": "Lielpeči (LVĢMC)",
         "description": "Lielpeču hidrometeoroloģiskā stacija http://85.254.219.78:3000",
         "marker-symbol": "building",
         "marker-size": "medium",
-        "marker-color": "#0000ff",
+        "marker-color": "#aa0000",
         "stroke": "#555555",
         "fill-opacity": 0.2,
-        "fill": "#ff5555"
+        "fill": "#55ff55"
       }
     },
     {
@@ -26,15 +26,15 @@
         "coordinates": [24.641654, 56.8126786]
       },
       "properties": {
-        "title": "LVĢMC - Ogre",
-        "name": "LVĢMC - Ogre",
+        "title": "Ogre (LVĢMC)",
+        "name": "Ogre (LVĢMC)",
         "description": "Ogres hidrometeoroloģiskā stacija http://85.254.219.78:3000",
         "marker-symbol": "building",
         "marker-size": "medium",
-        "marker-color": "#0000ff",
+        "marker-color": "#aa0000",
         "stroke": "#555555",
         "fill-opacity": 0.2,
-        "fill": "#ff5555"
+        "fill": "#55ff55"
       }
     },
     {
@@ -44,14 +44,15 @@
         "coordinates": [24.6121649, 56.815002]
       },
       "properties": {
-        "title": "Lata",
-        "name": "Lata",
+        "title": "J.Čakstes prospekts, Ogre",
+        "name": "J.Čakstes prospekts, Ogre",
+        "description": "Jāņa Čakstes prospekts, Ogre, Līkais Tilts http://85.254.219.78:3000",
         "marker-symbol": "water",
         "marker-size": "medium",
-        "marker-color": "#0000ff",
+        "marker-color": "#00aa00",
         "stroke": "#555555",
         "fill-opacity": 0.2,
-        "fill": "#ff5555"
+        "fill": "#55ff555"
       }
     },
     {
@@ -61,11 +62,12 @@
         "coordinates": [24.6625969, 56.8218779]
       },
       "properties": {
-        "title": "Aka",
-        "name": "Aka",
+        "title": "Mazā Lībieškalna iela, Ogre",
+        "name": "Mazā Lībieškalna iela, Ogre",
+        "description": "Mazā Lībieškalna iela, Ogre http://85.254.219.78:3000",
         "marker-symbol": "water",
         "marker-size": "medium",
-        "marker-color": "#0000ff",
+        "marker-color": "#00aa00",
         "stroke": "#555555",
         "fill-opacity": 0.2,
         "fill": "#ff5555"
@@ -78,14 +80,14 @@
         "coordinates": [24.6754409, 56.8173282]
       },
       "properties": {
-        "title": "Lībieškalns",
-        "name": "Lībieškalns",
+        "title": "Dārziņu palienes ielas lata",
+        "name": "Dārziņu palienes ielas lata, Lībieškalns http://85.254.219.78:3000",
         "marker-symbol": "water",
         "marker-size": "medium",
-        "marker-color": "#0000ff",
+        "marker-color": "#00aa00",
         "stroke": "#555555",
         "fill-opacity": 0.2,
-        "fill": "#ff5555"
+        "fill": "#55ff55"
       }
     },
     {
@@ -95,14 +97,15 @@
         "coordinates": [24.7539661, 56.8010262]
       },
       "properties": {
-        "title": "Aka aiz Lielpečiem",
-        "name": "Aka aiz Liepečiem",
+        "title": "Tilta iela,  Ogresgals",
+        "name": "Tilta iela,  Ogresgals",
+        "description": "Tilta iela,  Ogresgals, Pienotava http://85.254.219.78:3000",
         "marker-symbol": "water",
         "marker-size": "medium",
-        "marker-color": "#0000ff",
+        "marker-color": "#00aa00",
         "stroke": "#555555",
         "fill-opacity": 0.2,
-        "fill": "#ff5555"
+        "fill": "#55ff55"
       }
     },
     {
@@ -116,7 +119,7 @@
         "name": "Grīva",
         "marker-symbol": "water",
         "marker-size": "medium",
-        "marker-color": "#0000ff",
+        "marker-color": "#aaaaaa",
         "stroke": "#555555",
         "fill-opacity": 0.2,
         "fill": "#ff5555"
@@ -133,10 +136,10 @@
         "name": "HES 1",
         "marker-symbol": "water",
         "marker-size": "medium",
-        "marker-color": "#0000ff",
+        "marker-color": "#aaaaaa",
         "stroke": "#555555",
         "fill-opacity": 0.2,
-        "fill": "#ff5555"
+        "fill": "#333333"
       }
     }
   ]
