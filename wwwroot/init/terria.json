@@ -18,7 +18,7 @@
 					"type": "3d-tiles",
 					"url": "http://85.254.219.78:3001/data/Ogre_Glazuskunis-Ogresgals_3dtiles/Scene/Ogre_GlazuskunismOgresgals_3dtiles.json",
 					"description": "Ogre Glāzšķūnis 3D tiles",
-					"heightOffset": -64,
+					"heightOffset": -65,
 					"isEnabled": true,
 					"isShown": false
 				},
