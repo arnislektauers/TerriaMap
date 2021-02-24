@@ -97,7 +97,7 @@
 				{
 					"name": "Sentinel-1 ledus dati",
 					"type": "kml",
-					"url": "http://localhost:3001/data/S1A_IW_GRDH_1SDV_icemap.kmz",
+					"url": "http://85.254.219.78:3001/data/S1A_IW_GRDH_1SDV_icemap.kmz",
 					"description": "Sentinel-1 ledus dati",
 					"isEnabled": true
 				},
