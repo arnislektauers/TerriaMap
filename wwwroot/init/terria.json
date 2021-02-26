@@ -78,18 +78,9 @@
 			"isPromoted": true,
 			"items": [
 				{
-					"name": "Modelētā applūstošā teritorija pēc 12h",
+					"name": "Modelētā applūstošā teritorija 24h laikā",
 					"type": "kml",
-					"url": "http://85.254.219.78:3001/data/ogre-0004.kmz",
-					"description": "Modelētā applūstošā teritorija pēc 12h",
-					"isEnabled": true,
-					"isShown": false,
-					"isPromoted": true
-				},
-				{
-					"name": "Modelētā applūstošā teritorija pēc 24h",
-					"type": "kml",
-					"url": "http://85.254.219.78:3001/data/ogre-0008.kmz",
+					"url": "http://85.254.219.78:3001/data/ogre.kmz",
 					"description": "Modelētā applūstošā teritorija pēc 24h",
 					"isEnabled": true,
 					"isShown": false
