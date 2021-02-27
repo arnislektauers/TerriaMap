@@ -32,6 +32,15 @@
 					"isShown": false
 				},
 				{
+					"name": "Ogre Lībieškalns",
+					"type": "3d-tiles",
+					"url": "http://85.254.219.78:3001/data/Libieskalns_3dtiles/Scene/Libieskalns_3dtiles.json",
+					"description": "Ogre Lībieškalns 3D tiles",
+					"heightOffset": -52,
+					"isEnabled": true,
+					"isShown": false
+				},
+				{
 					"name": "Ogresgals",
 					"type": "3d-tiles",
 					"url": "http://85.254.219.78:3001/data/Ogre_Ogresgals_3dtiles/Scene/Ogre_Ogresgals_3dtiles.json",
